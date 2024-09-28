@@ -3,7 +3,7 @@ package chapter1;
 import chapter1.fly.FlyWithWings;
 import chapter1.quack.Quack;
 
-public class MallardDuck extends Duck{
+public class MallardDuck extends Duck {
 
     public MallardDuck() {
         flyBehavior = new FlyWithWings();
